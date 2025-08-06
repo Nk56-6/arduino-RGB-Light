@@ -59,7 +59,7 @@ This Arduino project uses a **Light Dependent Resistor (LDR)** to measure light 
 
 ## Images / Videos
 
-- ![Lights](images/1000002871.jpg)
+- ![Lights](downloads/1000002871.jpg)
 
 ---
 
